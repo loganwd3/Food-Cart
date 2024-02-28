@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <div>
       <header>
-        <h2>LOGO</h2>
+        <h2 className="logo">FCART</h2>
         <ul>
           {/* <li>
             <Link to={"/"}>Home </Link>

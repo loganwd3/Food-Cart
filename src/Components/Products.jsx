@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import "./Products.css";
 import productsjson from "../assets/products.json";
 import { useContext } from "react";
@@ -6,11 +6,13 @@ import { cartContext } from "../App";
 
 function Products() {
   const [cart, setCart] = useContext(cartContext);
-  //   console.log(cart);
-  //   const addCart = () => {
-  //     setCart([...cart, productsjson]);
-  //   };
-  //   const removeCart = () => {};
+
+  // const Plus = () => {
+
+  // };
+
+  // const Minus = () => {};
+
   return (
     <div className="products-container">
       <div className="products">

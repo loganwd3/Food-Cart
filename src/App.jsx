@@ -9,7 +9,6 @@ import Products from "./Components/Products";
 export const cartContext = createContext();
 function App() {
   const [cart, setCart] = useState([]);
-
   return (
     <div>
       <cartContext.Provider value={[cart, setCart]}>

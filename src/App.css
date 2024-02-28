@@ -16,6 +16,10 @@ header {
   align-items: center;
 }
 
+header .logo {
+  color: orangered;
+}
+
 ul {
   width: 40%;
   height: 100%;
