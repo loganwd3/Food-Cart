@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "food_item": "Butter Chicken",
+    "food_type": "Non-Vegetarian",
+    "price_INR": 300,
+    "image": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 2,
+    "food_item": "Masala Dosa",
+    "food_type": "Vegetarian",
+    "price_INR": 80,
+    "image": "https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 3,
+    "food_item": "Palak Paneer",
+    "food_type": "Vegetarian",
+    "price_INR": 250,
+    "image": "https://images.pexels.com/photos/3928854/pexels-photo-3928854.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 4,
+    "food_item": "Biryani",
+    "food_type": "Non-Vegetarian",
+    "price_INR": 350,
+    "image": "https://images.pexels.com/photos/12737656/pexels-photo-12737656.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 5,
+    "food_item": "Chole Bhature",
+    "food_type": "Vegetarian",
+    "price_INR": 120,
+    "image": "https://images.pexels.com/photos/6419694/pexels-photo-6419694.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+
+  {
+    "id": 6,
+    "food_item": "Pav Bhaji",
+    "food_type": "Vegetarian",
+    "price_INR": 100,
+    "image": "https://images.pexels.com/photos/5410400/pexels-photo-5410400.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 7,
+    "food_item": "Chicken Tikka Masala",
+    "food_type": "Non-Vegetarian",
+    "price_INR": 320,
+    "image": "https://images.pexels.com/photos/12737801/pexels-photo-12737801.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 8,
+    "food_item": "Samosa",
+    "food_type": "Vegetarian",
+    "price_INR": 20,
+    "image": "https://images.pexels.com/photos/14477873/pexels-photo-14477873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 9,
+    "food_item": "Fish Curry",
+    "food_type": "Non-Vegetarian",
+    "price_INR": 280,
+    "image": "https://www.licious.in/blog/wp-content/uploads/2022/03/shutterstock_1891229335-min.jpg"
+  },
+  {
+    "id": 10,
+    "food_item": "Aloo Paratha",
+    "food_type": "Vegetarian",
+    "price_INR": 60,
+    "image": "https://images.pexels.com/photos/8346891/pexels-photo-8346891.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+
+  {
+    "id": 11,
+    "food_item": "Dal Makhani",
+    "food_type": "Vegetarian",
+    "price_INR": 220,
+    "image": "https://images.pexels.com/photos/2580464/pexels-photo-2580464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 12,
+    "food_item": "Tandoori Chicken",
+    "food_type": "Non-Vegetarian",
+    "price_INR": 280,
+    "image": "https://images.pexels.com/photos/9609832/pexels-photo-9609832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 13,
+    "food_item": "Pani Puri",
+    "food_type": "Vegetarian",
+    "price_INR": 30,
+    "image": "https://images.pexels.com/photos/13063302/pexels-photo-13063302.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 14,
+    "food_item": "Mutton Curry",
+    "food_type": "Non-Vegetarian",
+    "price_INR": 350,
+    "image": "https://images.pexels.com/photos/9609846/pexels-photo-9609846.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 15,
+    "food_item": "Gulab Jamun",
+    "food_type": "Vegetarian",
+    "price_INR": 40,
+    "image": "https://images.pexels.com/photos/11887844/pexels-photo-11887844.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 16,
+    "food_item": "Pulao",
+    "food_type": "Vegetarian",
+    "price_INR": 150,
+    "image": "https://www.indianveggiedelight.com/wp-content/uploads/2019/07/veg-pulao-featured.jpg"
+  },
+  {
+    "id": 17,
+    "food_item": "Kathi Roll",
+    "food_type": "Non-Vegetarian",
+    "price_INR": 100,
+    "image": "https://frommybowl.com/wp-content/uploads/2020/12/chana-kathi-rolls-landscape.jpg"
+  },
+  {
+    "id": 18,
+    "food_item": "Rasgulla",
+    "food_type": "Vegetarian",
+    "price_INR": 50,
+    "image": "https://images.pexels.com/photos/8788869/pexels-photo-8788869.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": 19,
+    "food_item": "Chicken Curry",
+    "food_type": "Non-Vegetarian",
+    "price_INR": 300,
+    "image": "https://images.pexels.com/photos/7353379/pexels-photo-7353379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  }
+]
